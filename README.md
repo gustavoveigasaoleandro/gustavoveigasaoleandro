@@ -20,4 +20,3 @@
   <a href="https://www.linkedin.com/in/gustavo-veiga-s%C3%A3o-leandro-2763651b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 ![Snake animation](https://github.com/gustavoveigasaoleandro/gustavoveigasaoleandro/blob/output/github-contribution-grid-snake.svg)
-![image](https://github.com/user-attachments/assets/a80a7b43-d96a-489e-a028-1618397e8ae7)
