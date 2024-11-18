@@ -19,4 +19,4 @@
   <a href = "mailto:veiga187@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/gustavo-veiga-s%C3%A3o-leandro-2763651b1/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-![Snake animation](https://github.com/gustavoveigasaoleandro/gustavoveigasaoleandro/blob/output/github-contribution-grid-snake.svg)
+<img alt="github-snake" src="https://github.com/gustavoveigasaoleandro/gustavoveigasaoleandro/blob/output/ocean.gif" />
