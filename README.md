@@ -11,6 +11,7 @@
         <li>Hi =), my name is Gustavo Veiga São Leandro, and I’ve been a developer since 2019.</li>
         <li>I work with modern technologies like Next.js, TailwindCSS, Java, Spring, Node.js, and Docker.</li>
         <li>I have a strong interest in Cloud Computing, especially platforms like AWS, and I enjoy exploring new tools and frameworks.</li>
+        <li>This is my personal github, my main account is the one I use at work.</li>
       </ul>
     </td>
     <td>
